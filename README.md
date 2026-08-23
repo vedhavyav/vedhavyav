@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedhavya Vadite</h1>
 <h3 align="center">Backend Engineer • AI Systems • Java</h3>
 
-- 🔭 I’m currently working on [concurrent-cache](https://github.com/vedhavyav/concurrent-cache)
+- 🔭 I’m currently working on [Git Atlas](https://github.com/vedhavyav/gitAtlas)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedhavyav](https://github.com/vedhavyav)
 
