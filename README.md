@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedhavya Vadite</h1>
-<h3 align="center">Backend Engineer • AI Systems • Java</h3>
+<h3 align="center">Backend Engineer • AI Systems • Java Developer</h3>
 
 - 🔭 I’m currently working on [Git Atlas](https://github.com/vedhavyav/gitAtlas)
 
